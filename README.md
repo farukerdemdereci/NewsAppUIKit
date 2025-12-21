@@ -1,6 +1,6 @@
 # NewsAppUIKit
 
-NewsApp-UIKit A programmatic UIKit news application built with MVVM and Async/Await.
+NewsAppUIKit A programmatic UIKit news application built with MVVM.
 
 Features:
 
