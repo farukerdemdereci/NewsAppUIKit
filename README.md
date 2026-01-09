@@ -2,11 +2,20 @@
 
 NewsAppUIKit A programmatic UIKit news application built with MVVM.
 
-Features:
+---
 
-* 100% Programmatic UI (No Storyboards)
-* MVVM Architecture 
-* Async/Await networking with URLSession
-* Kingfisher for image caching
-* @MainActor for thread-safe UI updates
+## Screenshots
+
+<p align="center">
+  <img src="newsapp.png" width="220" />
+</p>
+
+---
+
+# Tech Stack
+- UIKit
+- Swift
+- MVVM Architecture
+- Kingfisher
+- URLSession
 
